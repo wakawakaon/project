@@ -1,0 +1,11 @@
+Package: Pokazowy
+Type: Package
+Title: Moj Pakiet
+Version: 0.1.0
+Author: Wojciech Dominczak <dominczakwojciech@gmail.com>
+Maintainer: Wojciech Dominczak <dominczakwojciech@gmail.com>
+Description: W pakieciku tym umieszcze kilka funkcji, dokumentacji oraz danych.
+License: GPL-2
+LazyData: TRUE
+RoxygenNote: 6.0.1
+
